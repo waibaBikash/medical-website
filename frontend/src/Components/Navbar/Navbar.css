@@ -4,7 +4,7 @@
 .navbar{
   display: flex;
   justify-content: space-around;
-  padding: 20px;
+  padding: 37px;
   box-shadow: 0 1px 3px -2px black;
 }
 .nav-menu{
@@ -13,7 +13,7 @@
   list-style: none;
   gap: 50px;
   color: #626262;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 500;
 }
 .nav-menu li{
@@ -30,9 +30,9 @@
   font-weight: 400;
 }
 .nav-blue{
-  background: rgb(23, 33, 101);
+  background: rgb(50, 73, 140);
   color: white;
-  margin-top: 0px;
-  padding: 10px;
+  margin-top: 0px 17px;
+  padding:  10px 0px;
   padding-left: 50px;
 }
