@@ -1,13 +1,13 @@
 import React from 'react';
 import './Navbar.css';
+import Logo from '../Assets/logo.svg';
 
 const Navbar = () => {
   return (
     
     <div className='navbar'>
        <div className="nav-logo">
-         <p className='name'>REAL HEALTH</p>
-         <p>Medical Centre</p>
+          <img src={Logo} alt="logo" />
        </div>
         <ul className='nav-menu'>
            <li className='color-red'>HOME</li>
