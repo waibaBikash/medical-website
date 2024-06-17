@@ -2,8 +2,13 @@ import React from 'react';
 import './Navbar.css';
 import Logo from '../Assets/logo.svg';
 
+
 const Navbar = () => {
   return (
+    <>
+     <div className="nav-blue">
+      <p>02 8757 4888</p>
+     </div>
     
     <div className='navbar'>
        <div className="nav-logo">
@@ -17,6 +22,7 @@ const Navbar = () => {
            <li>CONTACT US</li>
         </ul>
     </div>
+    </>
   )
 }
 
