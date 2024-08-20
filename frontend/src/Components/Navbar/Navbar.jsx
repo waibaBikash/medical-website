@@ -9,7 +9,6 @@ const Navbar = () => {
      <div className="nav-blue">
       <p>02 8757 4888</p>
      </div>
-    
     <div className='navbar'>
        <div className="nav-logo">
           <img src={Logo} alt="logo" />
