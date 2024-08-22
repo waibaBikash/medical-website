@@ -14,7 +14,9 @@ const Navbar = () => {
           <img src={Logo} alt="logo" />
        </div>
         <ul className='nav-menu'>
-           <li className='color-red'>HOME</li>
+           <li 
+           className='color-red'>HOME
+           </li>
            <li>SERVICES</li>
            <li>OUR DOCTORS</li>
            <li>ABOUT US</li>
